@@ -19,5 +19,8 @@ https://www.qrp-labs.com/lpfkit.html
 Linear PA supported:
 https://www.qrp-labs.com/linear.html
 
+This is my arrangment for test:
+![schema](https://github.com/iz7vii/Radioberry-Filters-Interface-Fork/blob/master/Radioberry-arrangment.jpg)
+
 73 
 de IZ7VII
