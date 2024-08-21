@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name pa-driver)(type KiCad)(uri ${KIPRJMOD}/pa-driver.pretty)(options "")(descr ""))
-)
