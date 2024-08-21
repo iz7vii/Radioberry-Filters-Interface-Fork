@@ -7,6 +7,9 @@ https://github.com/pa3gsb/Radioberry-2.x
 
 This project interface LPF, BPF to the radiobery I/O over i2c.
 
+Radioberry In Out pin 
+https://github.com/pa3gsb/Radioberry-2.x/wiki/Radioberry-In-Output
+
 Relay Switch board supported:
 https://www.qrp-labs.com/ultimatelpf
 
